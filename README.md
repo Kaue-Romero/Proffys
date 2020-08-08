@@ -20,3 +20,4 @@ Entrar no diretório cd proffy-discovery<br>
 Baixar as dependências npm i<br>
 
 Executar o servidor npm run dev<br>
+
