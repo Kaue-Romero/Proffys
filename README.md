@@ -1,6 +1,6 @@
 # upload_Proffys
 <h1>Sobre:</h1>
-upload do Projeto da Rocketseat exclusivo da Next Level Week (NLW) com alterações
+Upload do Projeto da Rocketseat exclusivo da Next Level Week (NLW) com alterações
 
 <h1>Tecnologias Usadas</h1>
 <h2>O projeto está desenvolvido utilizando as seguintes tecnologias:</h2>
