@@ -13,7 +13,7 @@ Nunjucks<br>
 SQLite<br>
 <h2>Como executar o projeto</h2>
 
-Clonar o repositório git clone <br>
+Clonar o repositório git clone <strong>https://github.com/Kaue-Romero/upload_Proffys#upload_proffys</strong><br>
 
 Entrar no diretório cd proffy-discovery<br>
 
