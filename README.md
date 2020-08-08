@@ -1,7 +1,7 @@
 # upload_Proffys
 upload do Projeto da Rocketseat exclusivo da Next Level Week (NLW) com alterações
 
-Tecnologias Usadas
+<h1>Tecnologias Usadas</h1>
 O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 HTML
