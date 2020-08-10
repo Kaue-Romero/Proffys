@@ -13,12 +13,12 @@ Upload do Projeto da Rocketseat exclusivo da Next Level Week (NLW) com alteraç�
 <li>SQLite</li><br>
 </ul>
 <h2>Como executar o projeto</h2>
+<ul>
+<li>Clonar o repositório git clone <strong>https://github.com/Kaue-Romero/upload_Proffys#upload_proffys</strong></li><br>
 
-Clonar o repositório git clone <strong>https://github.com/Kaue-Romero/upload_Proffys#upload_proffys</strong><br>
+<li>Entrar no diretório cd proffy-discovery</li><br>
 
-Entrar no diretório cd proffy-discovery<br>
+<li>Baixar as dependências npm i</li><br>
 
-Baixar as dependências npm i<br>
-
-Executar o servidor npm run dev<br>
-
+<li>Executar o servidor npm run dev</li><br>
+</ul>
