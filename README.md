@@ -12,7 +12,7 @@ Upload do Projeto da Rocketseat exclusivo da Next Level Week (NLW) com alteraç�
 <li>Nunjucks</li><br>
 <li>SQLite</li><br>
 </ul>
-<h2>Como executar o projeto</h2>
+<h2>Como executar o projeto:</h2>
 <ul>
 <li>Clonar o repositório git clone <strong>https://github.com/Kaue-Romero/upload_Proffys#upload_proffys</strong></li><br>
 
